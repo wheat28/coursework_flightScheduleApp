@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Рейсы аэропорта</string>
+    <string name="navigation_drawer_open">Открыть меню</string>
+    <string name="navigation_drawer_close">Закрыть меню</string>
+    <string name="filter_title">Фильтровать рейсы</string>
+    <string name="filter_status">Статус рейса</string>
+    <string name="filter_all">Все рейсы</string>
+    <string name="filter_scheduled">По расписанию</string>
+    <string name="filter_delayed">Задержан</string>
+    <string name="filter_canceled">Отменен</string>
+    <string name="filter_boarding">Посадка</string>
+    <string name="filter_time">Время вылета</string>
+    <string name="filter_from">С:</string>
+    <string name="filter_to">По:</string>
+    <string name="filter_airline">Авиакомпания</string>
+    <string name="filter_apply">Применить фильтры</string>
+    <string name="filter_reset">Сбросить фильтры</string>
+    <string name="nav_open">Открыть меню</string>
+    <string name="nav_close">Закрыть меню</string>
+    <string name="current_flights_list">Текущий список авиарейсов</string>
+    <string name="flight_number">Рейс: %s</string>
+    <string name="departure_city">Город вылета: %s</string>
+    <string name="destination_city">Пункт назначения: %s</string>
+    <string name="departure_time">Время вылета: %s</string>
+    <string name="arrival_time">Время прибытия: %s</string>
+    <string name="status_label">Статус: %s</string>
+    <string name="airline_label">Авиакомпания: %s</string>
+    <string name="status_departed">Вылетел</string>
+    <string name="status_scheduled">Ожидается</string>
+    <string name="status_boarding">Посадка</string>
+    <string name="status_canceled">Отменён</string>
+</resources>

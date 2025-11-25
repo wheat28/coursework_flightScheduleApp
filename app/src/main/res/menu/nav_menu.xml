@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<!-- Группа настроек -->
+<group android:checkableBehavior="none">
+    <item
+        android:id="@+id/nav_theme"
+        android:title="Сменить тему"
+        android:icon="@android:drawable/ic_menu_manage" />
+    <item
+        android:id="@+id/nav_language"
+        android:title="Сменить язык"
+        android:icon="@android:drawable/ic_menu_send" />
+</group>
+
+<item android:title="Поддержка">
+    <menu>
+        <item
+            android:id="@+id/nav_support"
+            android:title="Связаться с поддержкой"
+            android:icon="@android:drawable/ic_menu_sort_by_size" />
+    </menu>
+</item>
+
+</menu>

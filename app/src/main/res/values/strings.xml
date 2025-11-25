@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Airport Flights</string>
+    <string name="navigation_drawer_open">Open menu</string>
+    <string name="navigation_drawer_close">Close menu</string>
+    <string name="filter_title">Filter flights</string>
+    <string name="filter_status">Flight status</string>
+    <string name="filter_all">All flights</string>
+    <string name="filter_scheduled">Scheduled</string>
+    <string name="filter_delayed">Delayed</string>
+    <string name="filter_canceled">Canceled</string>
+    <string name="filter_boarding">Boarding</string>
+    <string name="filter_time">Departure time</string>
+    <string name="filter_from">From:</string>
+    <string name="filter_to">To:</string>
+    <string name="filter_airline">Airline</string>
+    <string name="filter_apply">Apply filters</string>
+    <string name="filter_reset">Reset filters</string>
+    <string name="nav_open">Open menu</string>
+    <string name="nav_close">Close menu</string>
+    <string name="current_flights_list">Current flights list</string>
+    <string name="flight_number">Flight: %s</string>
+    <string name="departure_city">Departure: %s</string>
+    <string name="destination_city">Destination: %s</string>
+    <string name="departure_time">Departure time: %s</string>
+    <string name="arrival_time">Arrival time: %s</string>
+    <string name="status_label">Status: %s</string>
+    <string name="airline_label">Airline: %s</string>
+    <string name="status_departed">Departed</string>
+    <string name="status_scheduled">Scheduled</string>
+    <string name="status_boarding">Boarding</string>
+    <string name="status_canceled">Canceled</string>
+</resources>
